@@ -1,0 +1,15 @@
+title = "Alberto Leal"
+base_url = "https://blog.aleal.dev"
+
+compile_sass = false
+generate_feed = true
+feed_filename = "atom.xml"
+
+theme = "hyde"
+
+[extra]
+author = "Alberto Leal"
+hyde_links = [
+    {url = "https://github.com/albertoleal", name = "GitHub"},
+    {url = "https://twitter.com/albertoleal", name = "Twitter"},
+]
